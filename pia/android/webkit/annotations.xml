@@ -1,0 +1,9 @@
+<root>
+    <item name='android.webkit.ValueCallback'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+    <item
+        name='android.webkit.WebView void evaluateJavascript(java.lang.String, android.webkit.ValueCallback&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NonBlocking' />
+    </item>
+</root>
